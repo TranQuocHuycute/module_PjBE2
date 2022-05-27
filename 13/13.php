@@ -1,3 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.72.0">
+  <title>13</title>
+
+  	
+    <link rel="stylesheet" href="./13/css/reset.css" type="text/css"> 
+
+</head>
+
+<body>
 <div class="col-lg-4">
 				<div class="top-player">
 					<h2>TOP PLAYERS</h2>
@@ -25,116 +42,117 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
-								<tr>
-									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+								<tr><td class="text-center align-middle">1</td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 							</table>
 
 							<button class="show-more" type="button">Show more</button>
+							
 						</div>
+						<!-- GOALS -->
 						<div class="tab-pane fade table-responsive" id="goals" role="tabpanel" aria-labelledby="profile-tab">
 							<table class="table">
 								<tr>
@@ -145,16 +163,16 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./3/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
 										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
@@ -163,16 +181,16 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
 										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
@@ -181,16 +199,16 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
 										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
@@ -199,16 +217,16 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
 										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
@@ -217,37 +235,37 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
@@ -265,109 +283,108 @@
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
-								<tr>
-									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+								<tr><td class="text-center align-middle">1</td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/5.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Karim Benzema</h4>
-										<p class="d-flex"><img src="images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/1.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
 								<tr>
 									<td class="text-center align-middle">1</td>
-									<td><img src="images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
+									<td><img src="./13/images/6.jfif" class="img-player" width="42" height="42" alt="" width="21" height="21"></td>
 									<td class="align-middle">
 										<h4 class="title-player">Ousmane Dembélé</h4>
-										<p class="d-flex"><img src="images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
+										<p class="d-flex"><img src="./13/images/2.png" alt="" width="18" height="18"> <span class="pt-1 pl-1">Forward</span></p>
 									</td>
 									<td class="text-center align-middle"><span class="rating">7.7</span></td>
 								</tr>
@@ -378,3 +395,4 @@
 					</div>
 				</div>
 			</div>
+</body>
