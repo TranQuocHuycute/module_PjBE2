@@ -357,7 +357,7 @@ $url_path = str_replace('\\', '/', $url_path);
           </div>
         </div>
       </div>
-      <div class="sc-e5255230-0 hLaBJx widget-wrapper" style="height: 648px;"></div>
+
     </div>
   </div>
 </div>
