@@ -10,7 +10,6 @@
 	<title>10</title>
 
 	
-	<link rel="stylesheet" href="./10/css/style_title.css">
 
 </head>
 

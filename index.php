@@ -10,6 +10,8 @@
 	<link rel="stylesheet" href="../demo/public/css/index.css">
 	<link rel="stylesheet" href="../demo/public/css/style.css" type="text/css">
 	<link rel="stylesheet" href="../demo/public/css/style_title.css" type="text/css">
+	<link rel="stylesheet" href="../demo/public/css/index.css" type="text/css">
+
 
 
 
@@ -50,8 +52,8 @@
 			</div>
 		</div>
 	</div>
-	<script src="js/jquery-2.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<script src="public/js/jquery-2.2.1.min.js"></script>
+	<script src="public/js/bootstrap.min.js"></script>
 </body>
 
 </html>

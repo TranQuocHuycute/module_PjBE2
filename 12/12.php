@@ -9,11 +9,11 @@
     <meta name="generator" content="Hugo 0.72.0">
     <title>12</title>
 
-    <!-- <link rel="stylesheet" href="/12/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="/12/css/style_title.css" type="text/css">
-    <link rel="stylesheet" href="/12/css/style.css" type="text/css">
-    <link rel="stylesheet" href="/12/css/reset.css" type="text/css"> -->
-    <link rel="stylesheet" href="./12/css/reset.css" type="text/css"> 
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style_title.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/reset.css" type="text/css">
+    <!-- <link rel="stylesheet" href="./12/css/reset.css" type="text/css">  -->
 
 </head>
 
