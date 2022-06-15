@@ -1,13 +1,4 @@
-a {
-  text-decoration: none;
-}
-a {
-  background-color: transparent;
-}
-* {
-  box-sizing: border-box;
-}
-body {
+.player {
   overflow-x: hidden;
   width: 100%;
   -webkit-font-smoothing: antialiased;
@@ -18,11 +9,32 @@ body {
   color: #404040;
   background-color: #dce0e4;
 }
-html {
-  line-height: 1.15;
-  text-size-adjust: 100%;
+.player a {
+  text-decoration: none;
+  background-color: transparent;
 }
-.fFQYvZ {
+.player a.sc-f739ec58-0.jluRps {
+  padding: 20px;
+}
+.player .islOmW {
+  text-transform: uppercase;
+  font-weight: 500;
+  background-color: #f1f2f5;
+  color: #404040;
+  font-size: 15px;
+  padding: 12px 0px 8px;
+  padding: 20px;
+  text-align: center;
+  display: block;
+}
+.player .kEOano {
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  margin: 8px -8px 0px 0px;
+}
+.player .kEOano .fFQYvZ {
   display: block;
   padding: 4px;
   min-height: 149px;
@@ -32,26 +44,19 @@ html {
   margin: 0px 8px 8px 0px;
   flex: 1 0 122px;
 }
-.kEOano {
-  display: flex;
-  flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  justify-content: space-between;
-  margin: 8px -8px 0px 0px;
-}
-.ipGgrS {
+.player .kEOano .fFQYvZ .ipGgrS {
   position: relative;
   margin: 4px auto 0px;
 }
-.gluUez {
-  border-radius: 50%;
-}
-.iKKRor {
+.player .kEOano .fFQYvZ .ipGgrS .iKKRor {
   position: absolute;
   bottom: 0px;
   right: 0px;
 }
-.dKEjkb {
+.player .kEOano .fFQYvZ .gluUez {
+  border-radius: 50%;
+}
+.player .kEOano .fFQYvZ .dKEjkb {
   background-color: #004996;
   color: white;
   display: inline-block;
@@ -64,13 +69,13 @@ html {
   padding: 2px;
   text-align: center;
 }
-.cmzgnH {
+.player .kEOano .fFQYvZ .cmzgnH {
   font-weight: 500;
   padding: 8px 4px;
   text-align: center;
   min-height: 52px;
 }
-.dKGIlX {
+.player .kEOano .fFQYvZ .dKGIlX {
   display: flex;
   -webkit-box-pack: justify;
   justify-content: space-between;
@@ -80,23 +85,6 @@ html {
   padding: 2px 4px;
   background-color: #e6ebee;
 }
-.ctWGZL {
-  color: #0078e0;
-  font-weight: 500;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.clDCDf {
-  display: flex;
-  -webkit-box-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  justify-content: center;
-  min-width: 50px;
-}
-.jbHIoF {
-  text-transform: uppercase;
-  color: #404040;
-  margin-left: 4px;
+.player .kEOano .fFQYvZ .dKGIlX img.sc-a7ad0435-0.gluUez.sc-8cd91851-8.cHySUE {
+  margin-right: 10px;
 }
