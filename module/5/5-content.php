@@ -1,23 +1,3 @@
-<html style="background-color: #f3f3f4;">
-
-<head>
-    <title></title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="css/all.css">
-
-    <?php
-    if (!class_exists('lessc')) {
-        include('./libs/lessc.inc.php');
-    }
-    $less = new lessc;
-    $less->compileFile('less/style-5.less', 'css/style-5.css');
-    ?>
-    <link href="css/style-5.css" rel="stylesheet" type="text/css" />
-</head>
 <div class="style-5">
     <!-- module 5 -->
     <div class="all_leagues">
@@ -25,7 +5,7 @@
         <div class="btn_all_leagues"><b>ALL LEAGUES</b></div>
         <!-- list -->
         <div class="leagues">
-            <input type="checkbox" class="cb-leagues" id="1" />
+            <input type="checkbox" class="cb-leagues" id="1" checked />
             <label class="lb-leagues" for="1">
                 <div class="parent-leagues">
                     <a href="#">
@@ -74,7 +54,7 @@
         </div>
         <!-- list -->
         <div class="leagues">
-            <input type="checkbox" class="cb-leagues" id="2" />
+            <input type="checkbox" class="cb-leagues" id="2" checked />
             <label class="lb-leagues" for="2">
                 <div class="parent-leagues">
                     <a href="#">
@@ -123,7 +103,7 @@
         </div>
         <!-- list -->
         <div class="leagues">
-            <input type="checkbox" class="cb-leagues" id="3" />
+            <input type="checkbox" class="cb-leagues" id="3" checked />
             <label class="lb-leagues" for="3">
                 <div class="parent-leagues">
                     <a href="#">
@@ -173,8 +153,3 @@
     </div>
     <!-- module 5 -->
 </div>
-
-<!-- js -->
-<script src="./js/bootstrap.bundle.min.js"></script>
-
-</html>

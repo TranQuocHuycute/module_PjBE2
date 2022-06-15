@@ -17,10 +17,8 @@
         ?>
         <link href="css/style-3.css" rel="stylesheet" type="text/css" />
     </head>
-    <div class="style-3" >
-        <!-- module 3 -->
-        <input type="date" class="date" id="date" name="date">
-        <!-- module 3 -->
-    </div>
+    <!-- module 3 -->
+    <?php include '../3/3-content.php'; ?>
+    
     <script src="./js/bootstrap.bundle.min.js"></script>
 </html>
