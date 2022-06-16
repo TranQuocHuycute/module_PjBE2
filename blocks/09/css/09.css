@@ -1,76 +1,72 @@
-.container{
-    text-align: center;
-    display: block;
-    width:500px;
-    height:auto;
+.container {
+  text-align: center;
+  display: block;
+  width: 500px;
+  height: auto;
 }
-.btn-group{
-    width:600px;
+.container .btn-group {
+  width: 600px;
 }
-.login>img{
-    border: 3px solid rgb(241, 242, 245);
-    width:200px;
-    height:200px;
-    border-radius: 50%;
+.container .btn-group .login {
+  border-radius: 4px;
+  fill: white;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out 0s;
 }
-
-.facebook {
-    background: rgb(66, 103, 178);
-    width: 272px;
-    height: 44px;
-    color: white;
-    margin-top: 20px;
-    text-align: left;
-
+.container .btn-group .login img {
+  border: 3px solid #f1f2f5;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
-.githup {
-    margin: 15px auto;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    width: 272px;
-    height: 44px;
-    text-align: left;
-    background: rgb(255, 255, 255);
-    color: rgb(7, 7, 7);
-    opacity: 0.8;
+.container .btn-group .text {
+  text-transform: uppercase;
+  color: #0057a3;
+  font-weight: 500;
+  font-size: 15px;
 }
-.google {
-    background: white;
-    color: rgb(128, 128, 128);
-    width: 272px;
-    height: 44px;
-    border: 1px solid rgba(0, 0, 24, 0.14);
-    text-align: left;
+.container .btn-group .text1 {
+  color: #808080;
+  margin-top: -12px;
 }
-.login {
-    border-radius: 4px;
-    fill: white;
-    padding: 10px 20px;
-    font-size: 15px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.1s ease-in-out 0s;
+.container .btn-group .btn-facebook .facebook {
+  background: #4267b2;
+  width: 272px;
+  height: 44px;
+  color: white;
+  margin-top: 20px;
+  text-align: left;
 }
-
-.text {
-    text-transform: uppercase;
-    color: rgb(0, 87, 163);
-    font-weight: 500;
-    font-size: 15px;
+.container .btn-group .btn-facebook .facebook .iWbuuZ {
+  display: inline-block;
+  text-align: left;
+  width: 40px;
+  border-right: 1px solid rgba(255,255,255,0.5);
 }
-.text1 {
-    color: rgb(128, 128, 128);
-    margin-top: -12px;
+.container .btn-group .btn-facebook .facebook .ertcLt {
+  display: inline-block;
+  text-align: center;
 }
-.iWbuuZ {
-    display: inline-block;
-    text-align: left;
-    width: 40px;
-    border-right: 1px solid rgba(255, 255, 255, 0.5);
+.container .btn-group .githup {
+  margin: 15px auto;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 272px;
+  height: 44px;
+  text-align: left;
+  background: #ffffff;
+  color: #070707;
+  opacity: 0.8;
 }
-.ertcLt {
-    display: inline-block;
-    text-align: center;
-    
+.container .btn-group .google {
+  background: white;
+  color: #808080;
+  width: 272px;
+  height: 44px;
+  border: 1px solid rgba(0,0,24,0.14);
+  text-align: left;
 }
