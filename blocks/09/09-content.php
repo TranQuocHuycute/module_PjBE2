@@ -9,7 +9,7 @@ $url_path = str_replace('\\', '/', $url_path);
 
 ?>
 <body>
-    <div class="container">
+    <div class="type-9 container">
         <div class="login">
             <img src="./images/login.svg" alt="login" class="login.svg">
         </div>
