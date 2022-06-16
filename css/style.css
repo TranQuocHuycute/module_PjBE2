@@ -9,6 +9,7 @@
         width: 992px;
     }
 }
+
 body {
     overflow-x: hidden;
     width: 100%;
@@ -20,6 +21,7 @@ body {
     color: rgb(64, 64, 64);
     background-color: rgb(220, 224, 228);
 }
+
 .container {
     width: 1200px;
     display: block;

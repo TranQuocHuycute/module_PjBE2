@@ -1,0 +1,20 @@
+.container {
+  background-color: #000000;
+  width: 400px;
+}
+.avatar {
+  text-align: center;
+}
+.gluUez {
+  border-radius: 50%;
+}
+.content {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.full-name {
+  margin-bottom: 40px;
+}
+.infomation>p {
+  margin: 5px 0 5px 0;
+}

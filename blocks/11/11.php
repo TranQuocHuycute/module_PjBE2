@@ -25,7 +25,7 @@
 
 <body>
 	<?php
- include '11_content.php'; ?>
+ include'11_content.php'; ?>
 </body>
 
 </html>

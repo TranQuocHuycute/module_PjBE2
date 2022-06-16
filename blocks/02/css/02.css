@@ -1,0 +1,83 @@
+body {
+  background: #000000;
+  color: white;
+}
+.container {
+  background: #000000;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+h5 {
+  color: white;
+}
+.Visit {
+  font-family: verdana;
+  font-size: 0.7rem;
+}
+.new {
+  font-family: verdana;
+}
+.right {
+  float: right;
+  font-family: verdana;
+  font-size: 0.7rem;
+}
+.search {
+  width: 500px;
+  height: 35px;
+  background: #00417a;
+}
+.search-icon {
+  width: 35px;
+  height: 35px;
+  color: white;
+  background: #004c8f;
+}
+.wrap-stream > a {
+  color: inherit;
+  padding-top: 2px;
+  text-decoration: none;
+}
+.wrap-stream > a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+.tops {
+  padding-top: 30px;
+}
+.pad {
+  padding-top: 60px;
+}
+.wrap > a {
+  color: inherit;
+  padding-top: 2px;
+  text-decoration: none;
+}
+.wrap > a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+.link {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 4px 4px 4px 0px;
+  color: inherit;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.container3 > a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+.container4 {
+  margin-bottom: 0px;
+  padding-top: 50px;
+}
+.container4 > a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+.imagelogo {
+  width: 170x;
+  height: 36px;
+}

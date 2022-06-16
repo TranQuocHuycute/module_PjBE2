@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <?php
-
 if (!class_exists('lessc')) {
     $dir_block = dirname($_SERVER['SCRIPT_FILENAME']);
 }
-
 ?>
 
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
