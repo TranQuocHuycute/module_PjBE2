@@ -6,10 +6,12 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>LaLiga live score, fixtures and results - SofaScore</title>
 	<!-- boostrap	 -->
-	<link rel="stylesheet" href="./public/css/bootstrap.min.css" type="text/css">
-	<link rel="stylesheet" href="./public/css/index.css">
-	<link rel="stylesheet" href="./public/css/style.css" type="text/css">
-	<link rel="stylesheet" href="./public/css/style_title.css" type="text/css">
+	<link rel="stylesheet" href="../demo/public/css/bootstrap.min.css" type="text/css">
+	<link rel="stylesheet" href="../demo/public/css/index.css">
+	<link rel="stylesheet" href="../demo/public/css/style.css" type="text/css">
+	<link rel="stylesheet" href="../demo/public/css/style_title.css" type="text/css">
+	<link rel="stylesheet" href="../demo/public/css/index.css" type="text/css">
+
 
 
 
@@ -50,8 +52,8 @@
 			</div>
 		</div>
 	</div>
-	<script src="js/jquery-2.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<script src="public/js/jquery-2.2.1.min.js"></script>
+	<script src="public/js/bootstrap.min.js"></script>
 </body>
 
 </html>
