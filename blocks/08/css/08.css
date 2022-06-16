@@ -1,20 +1,25 @@
-.container {
-  background-color: #000000;
-  width: 400px;
+.content{
+    background-color: rgb(241, 242, 245);
+    height:auto;
+    width:400px;
+    margin-left: 10px;
 }
-.avatar {
-  text-align: center;
+.avatar{
+    text-align: center;
 }
-.gluUez {
-  border-radius: 50%;
+.gluUez{
+    border-radius: 50%;
 }
-.content {
-  margin-left: 20px;
-  margin-right: 20px;
+.full-name{
+    margin-bottom: 40px;
+    margin-left: 10px;
 }
-.full-name {
-  margin-bottom: 40px;
+.infomation>p{
+    margin: 5px 0 5px 20px;
 }
-.infomation>p {
-  margin: 5px 0 5px 0;
+.sig-out{
+    margin-left: 20px;
+}
+.remove{
+    margin-left: 20px;
 }
