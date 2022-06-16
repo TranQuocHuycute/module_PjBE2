@@ -15,57 +15,37 @@ $url_path = str_replace('\\', '/', $url_path);
         </div>
         <h2 class="text">Sign In</h2>
         <div class="text1">create new account or log in</div>
-        <div class="btn-group">
-            <ul class="btn-facbook">
+        
+            <div class="btn-facbook">
                 <button class ="dsViFc facebook">
-                <div class="iWbuuZ">
-                    <img width="32" height="32" src="./images/fblogo.jpeg" alt="facebook-logo">
-                </div>
-                <div class="ertcLt">Continue with Facebook</div>
+                    <div class="iWbuuZ">
+                        <img width="32" height="32" src="./images/fblogo.jpeg" alt="facebook-logo">
+                    </div>
+                    <div class="ertcLt">Continue with Facebook</div>
                 </button>
-            </ul>
-            <br/>
-            <ul class="btn-huawei">
-                <button class ="login huawei">
-                <div class="iWbuuZ">
-                    <img width="32" height="32" src="./images/fblogo.jpeg" alt="huawei-logo">
-                </div>
-                <div class="ertcLt">Sign in with HUAWEI ID</div>
+            </div>
+
+            <div class="btn-huawei">
+                <button class ="login githup">
+                    <div class="iWbuuZ">
+                        <img width="32" height="32" src="./images/githuplogo.jpeg" alt="githup-logo">
+                    </div>
+                    <div class="ertcLt">Sign in with GITHUP</div>
                 </button>
-            </ul>
+            </div> 
 
             <div class="btn-google">
                 <button class ="login google">
                 <div class="iWbuuZ">
-                    <img width="32" height="32" src="./images/fblogo.jpeg" alt="google-logo">
+                    <img width="32" height="32" src="./images/logogoogle.jpeg" alt="google-logo">
                 </div>
                 <div class="ertcLt">Sign in with Google</div>
                 </button>
             </div>
-
-            <div class="btn-apple">
-                <button class ="login apple">
-                <div class="iWbuuZ">
-                    <img width="32" height="32" src="./images/fblogo.jpeg" alt="apple-logo">
-                </div>
-                <div class="ertcLt">Sign in with Apple</div>
-                </button>
-            </div>
-        </div>
+        
         <div style="margin-top: 60px;">
-            <h2 class="text">Welcome back</h2>
-            <div class="text1">only for existing accounts</div>
+            <h2 class="text">WELLCOME!</h2>
         </div>
-
-        <div class="btn-email">
-                <button class ="login email">
-                <div class="iWbuuZ">
-                    <img width="32" height="32" src="./images/fblogo.jpeg" alt="huawei-logo">
-                </div>
-                <div class="ertcLt">Log in with e-mail</div>
-                </button>
-            </div>
-
     </div>
 </body>
 </html>
