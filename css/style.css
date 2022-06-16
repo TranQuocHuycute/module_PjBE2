@@ -1,0 +1,27 @@
+@media (min-width: 1200px) {
+    .container {
+        width: 1200px;
+    }
+}
+@media (min-width: 992px) {
+
+    .container {
+        width: 992px;
+    }
+}
+body {
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 13.4px;
+    line-height: 1.4;
+    color: rgb(64, 64, 64);
+    background-color: rgb(220, 224, 228);
+}
+.container {
+    width: 1200px;
+    display: block;
+    margin: 0px auto;
+}
