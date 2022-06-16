@@ -22,26 +22,7 @@ $less->compileFile('less/18.less', 'css/18.css');
     <title>Document</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <style>
-    .top_legue {
-        width: 250px;
-        height: 50px;
-        cursor: pointer;
-        border-radius: 5px;
-        background-color: rgb(221, 216, 216);
-        text-align: center;
-        font-size: 30px;
-    }
-
-    .point {
-        display: flex;
-        justify-content: flex-end;
-    }
-
-    .name_country {
-        width: 50%;
-    }
-    </style>
+    
 </head>
 
 <body>

@@ -8,7 +8,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 
 ?>
-  <div class="container">
+  <div class="container style-18">
         <div class="row">
           <div class="col">
             <h2 class="top_legue">Ranking</h2>
