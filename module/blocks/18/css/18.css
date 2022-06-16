@@ -1,0 +1,16 @@
+.style-18 .top_legue {
+  width: 250px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #ddd8d8;
+  text-align: center;
+  font-size: 30px;
+}
+.style-18 .point {
+  display: flex;
+  justify-content: flex-end;
+}
+.style-18 .name_country {
+  width: 50%;
+}
