@@ -10,8 +10,8 @@ $url_path = str_replace('\\', '/', $url_path);
 ?>
 <body>
     <div class="type-9 container">
-        <div class="login">
-            <img src="./images/login.svg" alt="login" class="login.svg">
+        <div class="loginn">
+            <img src="./images/login.svg" alt="login" class="login">
         </div>
         <h2 class="text">Sign In</h2>
         <div class="text1">create new account or log in</div>
@@ -26,7 +26,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
 
             <div class="btn-huawei">
-                <button class ="login githup">
+                <button class ="dsViFc githup">
                     <div class="iWbuuZ">
                         <img width="32" height="32" src="./images/githuplogo.jpeg" alt="githup-logo">
                     </div>
@@ -35,7 +35,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div> 
 
             <div class="btn-google">
-                <button class ="login google">
+                <button class ="dsViFc google">
                 <div class="iWbuuZ">
                     <img width="32" height="32" src="./images/logogoogle.jpeg" alt="google-logo">
                 </div>

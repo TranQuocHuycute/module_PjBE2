@@ -4,53 +4,62 @@
   width: 500px;
   height: auto;
 }
-.type-9 .btn-group {
-  width: 600px;
+
+.type-9 .login {
+  border: 3px solid rgb(241, 242, 245);
+    width:200px;
+    height:200px;
+    border-radius: 50%;
 }
-.type-9 .btn-group .login {
-  border-radius: 4px;
-  fill: white;
-  padding: 10px 20px;
-  font-size: 15px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.1s ease-in-out 0s;
-}
-.type-9 .btn-group .login img {
-  border: 3px solid #f1f2f5;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-}
-.type-9 .btn-group .text {
+
+.type-9 .text {
   text-transform: uppercase;
   color: #0057a3;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 20px;
 }
-.type-9 .btn-group .text1 {
+.type-9 .text1 {
   color: #808080;
   margin-top: -12px;
+  font-size: 10px;
 }
-.type-9 .btn-group .btn-facebook .facebook {
-  background: #4267b2;
+.type-9 .facebook {
+  margin: 15px auto;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
   width: 272px;
   height: 44px;
-  color: white;
-  margin-top: 20px;
   text-align: left;
+  background: #4267b2;
+  color: white;
+  opacity: 0.8;
+  font-size: 1.5rem;
 }
-.type-9 .btn-group .btn-facebook .facebook .iWbuuZ {
+.type-9 .iWbuuZ {
   display: inline-block;
   text-align: left;
   width: 40px;
-  border-right: 1px solid rgba(255,255,255,0.5);
+  border-right: 1px solid rgba(180, 178, 178, 0.5);
 }
-.type-9 .btn-group .btn-facebook .facebook .ertcLt {
+.type-9 .ertcLt {
   display: inline-block;
   text-align: center;
 }
-.type-9 .btn-group .githup {
+.type-9 .githup {
+  margin: 15px auto;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 272px;
+  height: 44px;
+  text-align: left;
+  background: #c46f6f;
+  color: #070707;
+  opacity: 0.8;
+  font-size: 1.5rem;
+}
+.type-9 .google {
   margin: 15px auto;
   display: flex;
   -webkit-box-align: center;
@@ -61,12 +70,5 @@
   background: #ffffff;
   color: #070707;
   opacity: 0.8;
-}
-.type-9 .btn-group .google {
-  background: white;
-  color: #808080;
-  width: 272px;
-  height: 44px;
-  border: 1px solid rgba(0,0,24,0.14);
-  text-align: left;
+  font-size: 1.5rem;
 }
