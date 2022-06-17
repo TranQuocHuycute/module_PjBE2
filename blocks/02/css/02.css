@@ -2,8 +2,6 @@
     background:rgb(11 87 163);
     width: 100%;
     height: auto;
-}
-*{
     color:white;
 }
 .type-02 .container{
@@ -85,4 +83,5 @@
 .imagelogo{
     width: 170x;
     height: 36px;
+    color:white;
 }

@@ -8,7 +8,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 
 ?>
-<body>
+
     <div class="type-9 container">
         <div class="loginn">
             <img src="./images/login.svg" alt="login" class="login">
@@ -47,5 +47,5 @@ $url_path = str_replace('\\', '/', $url_path);
             <h2 class="text">WELLCOME!</h2>
         </div>
     </div>
-</body>
+
 </html>

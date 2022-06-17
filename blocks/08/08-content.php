@@ -7,7 +7,7 @@ preg_match_all($pattern_uri, __DIR__, $matches);
 $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<body>
+
     <div class="type-08">
         <div class="content">
             <div class="avatar">
@@ -28,5 +28,5 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
         </div>
     </div>
-</body>
+
 </html>
